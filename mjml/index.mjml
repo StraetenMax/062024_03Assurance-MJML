@@ -1,0 +1,137 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Opération Taxe Apprentissage 2024</mj-title>
+    <mj-raw>
+      <meta name="color-scheme" content="light"></meta>
+      <meta name="supported-color-schemes" content="light"></meta>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all Arial="Arial" Helvetica="Helvetica" sans-serif="sans-serif"/>
+      <mj-image padding="0" border="none"/>
+      <mj-button background-color="#BA4995" font-size="16px" line-height="20px" font-weight="500" text-transform="uppercase" inner-padding="15px 30px" border-radius="10px"/>
+    </mj-attributes>
+    <mj-style>
+      .hover:hover td, .hover:hover a{
+          background-color: #684092 !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#edf2f7">
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column width="250px">
+        <mj-image width="140px" src="https://img.mailinblue.com/3403292/images/content_library/original/6631e75e524b5b6d34b88b1b.png" alt="Logo Ecosup Assurance"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column width="500px">
+        <mj-text align="center" font-size="16px" font-weight="900" line-height="20px" color="#06CE06" text-transform="uppercase" padding-top="0" padding-bottom="0">taxe d'apprentissage 2024 </mj-text>
+        <mj-text align="center" font-size="38px" font-weight="300" line-height="40px" color="#684092" letter-spacing="-1px">Donnez du sens à votre <span style="color:#06CE06;">taxe d'apprentissage</span></mj-text>
+      </mj-column>
+      <mj-column width="500px">
+        <mj-image src="https://i.ibb.co/WfwpjVS/Graf-Taxe-Apprentissage.jpg" alt="graphisme sur la taxe d'apprentissage"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="50px">
+        <mj-image padding="0" alt="Icon Entreprise" src="https://i.ibb.co/PWtTS3R/appartement.jpg"/>
+      </mj-column>
+      <mj-column width="450px">
+        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-bottom="0">Contribution obligatoire, la <span style="font-weight:500">taxe d'apprentissage</span> offre la liberté... celle de choisir l'organisme de formation que votre entreprise souhaite soutenir. <span style="font-weight:500;">Vous avez la main !</span></mj-text>
+        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-top="0">Alors, donnez du sens à votre contribution, optez pour <span style="font-weight:500;text-transform:uppercase;color:#93278F;">Ecosup Assurance</span> - code UAI <span style="font-weight:500;color:#93278F;">0595877T</span>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column width="500px">
+        <mj-text font-size="20px" line-height="24px" font-weight="300" color="#93278F" text-transform="uppercase" align="left" padding-top="0" padding-bottom="5px">Pourquoi choisir Ecosup Assurance</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column width="50px">
+        <mj-image padding="0" alt="Icon numero 1" src="https://i.ibb.co/4j0M62F/1.jpg"/>
+      </mj-column>
+      <mj-column width="450px">
+        <mj-text font-size="16px" line-height="20px" font-weight="700" color="#684092" text-transform="uppercase" align="left" padding-top="0" padding-bottom="0">Financement de l'apprentissage</mj-text>
+        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-top="0" padding-bottom="0">Votre taxe d'apprentissage permet de financer nos <span style="font-weight:500;">BTS Assurance</span> et <span style="font-weight:500;">Bachelor Chargé(e) de Clientèles en Assurance et Banque</span>.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column width="50px">
+        <mj-image padding="0" alt="Icon numero 2" src="https://i.ibb.co/nbMQNYv/2.jpg"/>
+      </mj-column>
+      <mj-column width="450px">
+        <mj-text font-size="16px" line-height="20px" font-weight="700" color="#684092" text-transform="uppercase" align="left" padding-top="0" padding-bottom="0">Développement des compétences</mj-text>
+        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-top="0" padding-bottom="0">En versant la taxe à <span style="font-weight:500;text-transform:uppercase;color:#93278F;">Ecosup Assurance</span>, votre entreprise favorise le développement des compétences nécessaires pour répondre aux besoins des métiers de l'Assurance et de la Banque.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column width="50px">
+        <mj-image padding="0" alt="Icon numero 3" src="https://i.ibb.co/X2PGBz0/3.jpg"/>
+      </mj-column>
+      <mj-column width="450px">
+        <mj-text font-size="16px" line-height="20px" font-weight="700" color="#684092" text-transform="uppercase" align="left" padding-top="0" padding-bottom="0">Soutien à l'insertion professionnelle</mj-text>
+        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-top="0" padding-bottom="0">Le versement de cette taxe à <span style="font-weight:500;text-transform:uppercase;color:#93278F;">Ecosup Assurance</span>, organisme de formation, aide à l'insertion professionnelle des jeunes.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column width="50px">
+        <mj-image padding="0" alt="Icon numero 4" src="https://i.ibb.co/XC6wS79/4.jpg"/>
+      </mj-column>
+      <mj-column width="450px">
+        <mj-text font-size="16px" line-height="20px" font-weight="700" color="#684092" text-transform="uppercase" align="left" padding-top="0" padding-bottom="0">Contribution à l'économie</mj-text>
+        <mj-text font-size="16px" line-height="20px" font-weight="400" color="#2D3748" align="left" padding-top="0" padding-bottom="0">En soutenant nos formations supérieures en apprentissage, votre entreprise contribue indirectement à la croissance économique en formant une main-d'œuvre qualifiée.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="500px">
+        <mj-button css-class="hover" href="https://employeurs.soltea.education.gouv.fr/idp/ta5/oauth/authorize?provider=netentreprise&amp;target=employeur&amp;response_type=code&amp;client_id=819066ca-4142-4050-bc4e-94442482ef27&amp;state=SnJYenpYbEV6bU8yQUF2YmtTNUxEVUlGOFZBX3RSaldPc2NEcU1seURiSmJj&amp;redirect_uri=https:%2F%2Femployeurs.soltea.education.gouv.fr%2Fespace-prive%2F&amp;scope=openid%20profile%20TA5_READ%20TA5_WRITE&amp;code_challenge=coOv530E3CTK6ajNlby303D839rM0nJcsBZmj_PKOi0&amp;code_challenge_method=S256&amp;nonce=SnJYenpYbEV6bU8yQUF2YmtTNUxEVUlGOFZBX3RSaldPc2NEcU1seURiSmJj">Versement Taxe Apprentissage</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0">
+      <mj-column width="500px">
+        <mj-text font-size="20px" line-height="24px" font-weight="300" color="#93278F" text-transform="uppercase" align="left" padding-top="0" padding-bottom="5px">la taxe d'apprentissage mode d'emploi</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      <mj-group width="520px"> 
+        <mj-column width="50%" padding="10px"> 
+          <mj-image align="right" width="280px" alt="vidéo : Comment accéder à la plateforme SOLTéA" src="https://i.ibb.co/KV9ZY5P/acceder-Plateforme.png" href="https://youtu.be/RAXWqlWvcIw?si=a465ZPxZew2cidt8">    </mj-image>
+          <mj-text padding-bottom="0" padding-left="0" padding-right="0" font-size="16px" font-weight="400" line-height="20px">Comment accéder à la plateforme de répartition du solde ?</mj-text>
+        </mj-column>
+        <mj-column width="50%" padding="10px">     
+          <mj-image align="left" width="280px" alt="vidéo : chercher" src="https://i.ibb.co/mvDz873/comment-Chercher-Etablissement.png" href="https://youtu.be/SheDMkA54CY?si=8UYwBMqmR1bmNmi8">    </mj-image>
+          <mj-text padding-bottom="0" padding-left="0" padding-right="0" font-size="16px" font-weight="400" line-height="20px">Comment rechercher un établissement de formation pour affecter le solde ?</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#dce6ef" padding-bottom="0">
+      <mj-column width="240px">
+        <mj-image width="120px" alt="logo Ecosup-Campus" src="https://img.mailinblue.com/3403292/images/content_library/original/660d606e373b24d832a39719.png"/>
+        <mj-text font-size="12px" line-height="16px" font-weight="400" color="#2D3748" align="center" padding-top="0" padding-bottom="0">
+          <div>17 place Charles et Albert Roussel</div>
+          <div style="text-transform:uppercase">tourcoing</div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#dce6ef">
+      <mj-column width="380px">
+        <mj-social inner-padding="0 15px" icon-size="25px" mode="horizontal">
+          <mj-social-element alt="icon Linkedin" src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://fr.linkedin.com/company/ecosup-campus"></mj-social-element>
+          <mj-social-element alt="icon Facebook" src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupAssurance"></mj-social-element>
+          <mj-social-element alt="icon Instagram" src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png" href="https://www.instagram.com/ecosup.campus"></mj-social-element>
+          <mj-social-element alt="icon Youtube" src="https://img.mailinblue.com/3403292/images/content_library/original/660d60657236a3846ef846ba.png" href="https://www.youtube.com/@EcoSupAssurance"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#dce6ef">
+      <mj-column width="380px">
+        <mj-text font-size="12px" line-height="16px" font-weight="400" color="#2D3748" align="center" padding-top="0" padding-bottom="0">
+          <div>Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#2D3748;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</div>
+          <div><a style="text-decoration:none;color:#BA4995;" href="{{ mirror }}">Afficher dans votre navigateur web.</a></div>
+          <div><a style="text-decoration:none;color:#BA4995;text-transform:uppercase" href="{{ unsubscribe }}">se désinscrire.</a></div>
+        </mj-text>
+        <mj-spacer height="30px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
