@@ -1,28 +1,19 @@
 extends templates/_layout
 block content
-        //- logo Ecosup Assurance
-        mj-section(background-color='#ffffff' padding-bottom='0')
-            mj-column(width='250px')
-                mj-image(width='100px' src='https://img.mailinblue.com/3403292/images/content_library/original/6631e75e524b5b6d34b88b1b.png' alt='Logo Ecosup Assurance')/
-        //- image
-        mj-section(background-color='#ffffff' padding-bottom='0')
-            mj-column(padding='0')
-                mj-image(width='600px' src='https://i.ibb.co/SQTmQDf/Plan-de-travail-2.jpg' alt='étudiants joyeux en bichromie' )/
-        //- introduction à l'annonce et titre de l'annonce
-        mj-section(background-color='#ffffff' padding-bottom='0')
-            mj-column(width='500px')
-                mj-text(align='center' font-size='16px' font-weight='900' line-height='20px' color='#06CE06' text-transform='uppercase' padding-top='0' padding-bottom='0') cv book 04062024 
-                mj-text(align='center' font-size='30px' font-weight='300' line-height='34px' color='#684092') À la recherche de #[span(style='color:#06CE06;font-weight:600;') futurs talents]? Consultez notre #[span(style='color:#06CE06;font-weight:600;') CV Book] !!!
-            mj-column(width='200px')
-                mj-image(width='200px' src='https://i.ibb.co/S6sjgLh/graph062024.png' alt='illustration de curriculum vitae')/
-            mj-column(width='300px')  
-                mj-text(font-size='16px' font-weight='400' line-height='20px') Notre #[span(style='font-weight:600;') CV Book] régulièrement actualisé regroupe une #[span(style='font-weight:600;') sélection d'étudiants] ayant réussi leur #[span(style='font-weight:600;') entretien d'admission] dans notre établissement.
-                mj-text(font-size='16px' font-weight='400' line-height='20px') Ces étudiants ont choisi l'#[span(style='font-weight:600;') apprentissage] et préparent soit un #[span(style='font-weight:600;') BTS Assurance], soit un #[span(style='font-weight:600;') Bachelor Chargé(e) de Clientèles en Assurance et Banque].
-            mj-column(width='300px')
-                mj-text(font-size='16px' font-weight='400' line-height='20px') Déterminés, ils sont prêts à s'engager dans les #[span(style='font-weight:600;') métiers de l'Assurance et de la Banque]. À vous de repérer vos #[span(style='font-weight:600') futurs collaborateurs] !
-            mj-column(width='200px')
-                mj-image(width='200px' src='https://i.ibb.co/VWS1Sfq/graph02-062024.png' alt='illustration de contrat signé')/
-            
-            mj-column(width='260px')
-                mj-button(background-color='#BA4995' font-size='16px' line-height='20px' font-weight='500' inner-padding='8px 16px' border-radius='10px') Je télécharge
-                mj-text(font-size='16px' font-weight='400' line-height='20px' container-background-color='#dadada') code pour accéder au CV Book : #[span(style='font-weight:700') CVBook062024]
+    //- introduction à l'annonce et titre de l'annonce
+    mj-section(background-color='#ffffff')
+        mj-column(width='500px')
+            //-mj-text(align='center' font-size='16px' font-weight='900' line-height='20px' color='#06CE06' text-transform='uppercase' padding-top='0' padding-bottom='0') cv book 04062024 
+            mj-text(align='center' font-size='30px' font-weight='300' line-height='34px' color='#684092') À la recherche de #[span(style='color:#06CE06;font-weight:600;') futurs talents]? Consultez notre #[span(style='color:#06CE06;font-weight:600;') CV Book] !!!
+        mj-column(width='200px')
+            mj-image(width='200px' src='https://i.ibb.co/S6sjgLh/graph062024.png' alt='illustration de curriculum vitae')/
+        mj-column(width='300px')  
+            mj-text(font-size='16px' font-weight='400' line-height='20px') Notre #[span(style='font-weight:600;') CV Book] régulièrement actualisé regroupe une #[span(style='font-weight:600;') sélection d'étudiants] ayant réussi leur #[span(style='font-weight:600;') entretien d'admission] dans notre établissement.
+            mj-text(font-size='16px' font-weight='400' line-height='20px') Ces étudiants ont choisi l'#[span(style='font-weight:600;') apprentissage] et préparent soit un #[span(style='font-weight:600;') BTS Assurance], soit un #[span(style='font-weight:600;') Bachelor Chargé(e) de Clientèles en Assurance et Banque].
+        mj-column(width='300px')
+            mj-text(font-size='16px' font-weight='400' line-height='20px') Déterminés, ils sont prêts à s'engager dans les #[span(style='font-weight:600;') métiers de l'Assurance et de la Banque]. À vous de repérer vos #[span(style='font-weight:600') futurs collaborateurs] !
+        mj-column(width='200px')
+            mj-image(width='200px' src='https://i.ibb.co/VWS1Sfq/graph02-062024.png' alt='illustration de contrat signé')/
+        mj-column(width='260px')
+            mj-button(background-color='#BA4995' font-size='16px' line-height='20px' font-weight='500' inner-padding='8px 16px' border-radius='25px' css-class='hover' href='https://ecosup-assurance.fr/cv-book') Je télécharge
+            mj-text(font-size='16px' font-weight='400' line-height='20px' container-background-color='#dadada') code pour accéder au CV Book : #[span(style='font-weight:700') CVBook062024]

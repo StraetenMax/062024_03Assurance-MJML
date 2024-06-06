@@ -14,11 +14,17 @@ mjml
             }
     //- Body
     mj-body(background-color='#edf2f7')
-        //- contenu
-        block content
+        //- logo Ecosup Assurance
+        block front
+            include ../includes/_front
+        //- hero Image
+        block hero
+            include ../includes/_hero
         //- signature
         block signature
             include ../includes/_signature
+        //- contenu
+        block content
         //- Block TA
         block Taxe Apprentissage
             include ../includes/_TA
