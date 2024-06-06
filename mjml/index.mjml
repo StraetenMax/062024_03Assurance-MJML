@@ -19,7 +19,7 @@
   <mj-body background-color="#edf2f7">
     <mj-section background-color="#ffffff" padding-bottom="0">
       <mj-column width="250px">
-        <mj-image width="100px" src="https://img.mailinblue.com/3403292/images/content_library/original/6631e75e524b5b6d34b88b1b.png" alt="Logo Ecosup Assurance"/>
+        <mj-image width="120px" src="https://img.mailinblue.com/3403292/images/content_library/original/6631e75e524b5b6d34b88b1b.png" alt="Logo Ecosup Assurance"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-bottom="0">
@@ -28,21 +28,23 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="450px">
+        <mj-text align="center" font-size="30px" font-weight="300" line-height="34px" color="#684092">À la recherche de <span style="color:#06CE06;font-weight:600;">futurs talents</span> ? Consultez notre <span style="color:#06CE06;font-weight:600;">CV Book</span> !!!</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0">
       <mj-group width="450px">
-        <mj-column width="40%">
-          <mj-image align="right" width="120px" src="https://i.ibb.co/DkTGx9w/Christianjpo25052024.jpg" alt="Christian Annaloro, responsable pédagogique d'Ecosup Campus"/>
+        <mj-column width="275px">
+          <mj-image align="right" padding-right="5px" width="85px" src="https://i.ibb.co/DkTGx9w/Christianjpo25052024.jpg" alt="Christian Annaloro, responsable pédagogique d'Ecosup Campus"/>
         </mj-column>
-        <mj-column width="60%">
-          <mj-text align="left" padding-bottom="0" font-size="16px" font-weight="700" line-height="20px">Christian <span style="text-transform:uppercase;">Annaloro</span></mj-text>
-          <mj-text align="left" padding-top="0" padding-bottom="0" font-size="16px" font-weight="400" line-height="20px">Responsable pédagogique</mj-text>
-          <mj-text align="left" padding-top="0" font-size="16px" font-weight="400" line-height="20px">Ecosup Assurance</mj-text>
+        <mj-column width="175px">
+          <mj-text align="left" padding-bottom="0" padding-left="5px" padding-right="10px" font-size="12px" font-weight="700" line-height="16px">Christian <span style="text-transform:uppercase;">Annaloro</span></mj-text>
+          <mj-text align="left" padding-top="0" padding-left="5px" padding-right="10px" padding-bottom="0" font-size="12px" font-weight="400" line-height="16px">Responsable pédagogique</mj-text>
+          <mj-text align="left" padding-top="0" padding-left="5px" padding-right="10px" font-size="12px" font-weight="400" line-height="16px">Ecosup Assurance</mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
     <mj-section background-color="#ffffff">
-      <mj-column width="500px">
-        <mj-text align="center" font-size="30px" font-weight="300" line-height="34px" color="#684092">À la recherche de <span style="color:#06CE06;font-weight:600;">futurs talents</span>? Consultez notre <span style="color:#06CE06;font-weight:600;">CV Book</span> !!!</mj-text>
-      </mj-column>
       <mj-column width="200px">
         <mj-image width="200px" src="https://i.ibb.co/S6sjgLh/graph062024.png" alt="illustration de curriculum vitae"/>
       </mj-column>
@@ -62,9 +64,9 @@
       </mj-column>
     </mj-section>
     <mj-section padding-bottom="0">
-      <mj-column width="450px">
-        <mj-text font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase" padding-bottom="0">taxe d'apprentissage 2024</mj-text>
-        <mj-text font-size="28px" line-height="32px" font-weight="400" padding-top="0">Donnez du sens à votre taxe d'apprentissage</mj-text>
+      <mj-column width="500px">
+        <mj-text font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase" padding-bottom="0" color="#684092">taxe d'apprentissage 2024</mj-text>
+        <mj-text font-size="28px" line-height="32px" font-weight="400" padding-top="0" color="#684092">Donnez du sens à votre taxe d'apprentissage</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
